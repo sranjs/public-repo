@@ -1,0 +1,16 @@
+{
+  "id" : 11,
+  "name" : "Testing Folder",
+  "description" : " ",
+  "fileType" : "folder",
+  "projectLevel" : "/",
+  "groupName" : "dev",
+  "iconId" : "0",
+  "status" : "ACTIVE",
+  "metadata" : {
+    "createdBy" : "dataops",
+    "updatedBy" : null,
+    "createdDate" : "2026-04-02T19:13:03Z",
+    "updatedDate" : null
+  }
+}
